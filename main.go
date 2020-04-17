@@ -19,8 +19,8 @@ import (
 	"bufio"
 	"encoding/json"
 	"os"
-	"postqueue2json/filter"
 
+	"github.com/UnikumAB/postqueue2json/filter"
 	"github.com/sirupsen/logrus"
 )
 
